@@ -1,0 +1,69 @@
+WEEK 1 TASK IS NOW AVAILABLE — FINTRUST EXPERIENCE LAB
+
+Hello @channel,
+
+We are excited to officially begin Week 1 of the AnalystLab Africa Experience Lab Internship Programme.
+
+This week marks the beginning of our first multidisciplinary Experience Lab project:
+FINTRUST DIGITAL BANK
+
+Project: FinTrust Financial Intelligence & Digital Banking Support Solution
+Over the next 4 weeks, interns across the following tracks will work on the project:
+Data Analytics
+Data Science
+Machine Learning Engineering
+Generative AI
+Project Management
+
+WEEK 1 — UNDERSTAND & PLAN
+
+Theme:
+Understand → Explore → Define → Plan
+
+Week 1 is focused on building a strong foundation before development begins.
+
+You are expected to:
+Understand the FinTrust business problemReview the project resources and available dataDefine your track-specific objectivesIdentify relevant questions, KPIs, features, use cases, requirements, or risks, depending on your trackDevelop your approach and plan for Weeks 2–4Document your assumptions, observations and proposed approach
+Important: Week 1 is an individual task. There is no formal cross-track collaboration requirement this week. Formal collaboration will begin from Week 2.
+
+1. WEEK 1 ASSIGNMENT
+Please read the complete assignment carefully before starting your work.
+Week 1 Assignment:
+drive.google.com/file/d/…/view?usp=sharing
+
+The assignment document contains the track-specific requirements, deliverables, submission structure and assessment criteria.
+
+2. WEEK 1 SUBMISSION
+After completing your work, submit your final deliverables through the submission form below:
+Week 1 Submission Form:
+forms.gle/…
+Please make sure that any links submitted through the form are accessible to the review team.
+
+Submission Reminder
+Your submission should be:
+Well organisedClearly documentedProfessionalRelevant to the FinTrust business problemSupported by appropriate evidenceEasy for a reviewer to understand and evaluate
+Where applicable, include links to your:
+GitHub repositoryJupyter/Google Colab notebookPower BI dashboardSQL workAnalysis filesDiagrams/wireframesProject documentationOther supporting evidence
+DEADLINE
+20th September 2026, 11:59 PM WAT
+Please ensure that your submission is completed before the deadline.
+
+A Note to All Interns
+The objective of this Experience Lab is not simply to complete an assignment.
+
+You are expected to approach FinTrust as a realistic business/project scenario and demonstrate how you would work professionally, from understanding the problem, planning your approach, analysing or developing solutions, validating your work, documenting decisions, and ultimately presenting your contribution.
+
+Your Week 1 work will form the foundation for the work you will continue in Weeks 2–4.
+
+Take the time to understand the problem before jumping into implementation.
+
+Welcome to FinTrust!
+
+Let's build something meaningful.
+
+AnalystLab Africa Team
+
+QUICK ACCESS
+Week 1 Assignment: drive.google.com/file/d/…/view?usp=sharing
+Week 1 Submission: forms.gle/…
+Please read the assignment before submitting your work.
